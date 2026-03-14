@@ -1,16 +1,18 @@
-## Hi there 👋
+# Scalar Code
 
-<!--
-**scalar-code/scalar-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a developer based in Prishtina, Kosovo, specializing in clean code and system logic. 
+My focus is on building scalable web applications and efficient backend structures.
 
-Here are some ideas to get you started:
+### Technical Stack
+* Languages: HTML, CSS, JavaScript, Python
+* Backend: Supabase, PostgreSQL
+* Tools: Git, VS Code, Terminal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning Objectives
+* Advanced JavaScript Design Patterns
+* Full-stack Engineering with Modern Frameworks
+* System Performance Optimization
+
+### Contact
+* Email: scalarcode@outlook.com
+* GitHub: @scalar-code

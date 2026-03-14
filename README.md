@@ -1,7 +1,3 @@
-![Scalar Code Banner](Scalar Codo Logo SC.png)
-<p align="center">
-  <img src="Scalar Codo Logo SC.png" alt="Scalar Code Banner" width="100%">
-</p>
 # Scalar Code
 
 I am a developer based in Prishtina, Kosovo, specializing in clean code and system logic. 

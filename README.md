@@ -1,3 +1,4 @@
+![Scalar Code Banner](Scalar Code)
 # Scalar Code
 
 I am a developer based in Prishtina, Kosovo, specializing in clean code and system logic. 
